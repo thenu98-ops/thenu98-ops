@@ -40,12 +40,7 @@
 
 ---
 
-📈 **GitHub Stats**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thenurathisal&show_icons=true&theme=radical" width="47%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thenurathisal&theme=radical" width="47%">
-</p>
 
 ---
 
